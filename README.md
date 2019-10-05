@@ -2,7 +2,7 @@
 #
 # Formal verification of an electrical automotive window system.
 #
-# Written by: Renan Macarroni / renanfrancisco.on@gmail.com / +55 (42) 998 100 170
+Written by: Renan Macarroni / renanfrancisco.on@gmail.com / +55 (42) 998 100 170
 # 
 # The system contains the agents: Driver, Passenger, Obstruction (passenger and driver), Windows
 # (passenger and driver) and a security system (alarm).
