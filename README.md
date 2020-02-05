@@ -2,7 +2,6 @@
 #
 # Formal verification of an electrical automotive window system.
 
-Written by: Renan Macarroni / renanfrancisco.on@gmail.com / +55 (42) 998 100 170
  
  The system contains the agents: Driver, Passenger, Obstruction (passenger and driver), Windows
  (passenger and driver) and a security system (alarm).
@@ -18,8 +17,6 @@ Written by: Renan Macarroni / renanfrancisco.on@gmail.com / +55 (42) 998 100 170
 #****************************************************************************************************
 #
 # Verificação formal de um sistema elétrico de janelas automotivas.
-
- Modelado por: Renan Macarroni / renanfrancisco.on@gmail.com / +55 (42) 998 100 170
 
  O sistema contém os agentes: Motorista, Passageiro, Obstrução (passageiro e motorista), Janelas
  (passageiro e motorista) e um sistema de segurança (alarme).
