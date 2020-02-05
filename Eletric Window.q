@@ -82,3 +82,4 @@ E<> Passag.DescerVidro and (JanelaD.Descendo or JanelaD.Descer)
 N\u00e3o existe deadlock. Deve devolver valor Verdade.
 */
 A[] not deadlock
+
